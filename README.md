@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Wayne Hoggett from A Cloud Guru
-- 👀 I’m interested in all things cloud
-- 🌱 I’m currently learning Azure, never stop learning!
+- 👋 Hi, I’m Wayne Hoggett from Pluralsight
+- 👀 I’m interested in all things cloud, security, automation and devops
+- 🌱 Just like you, I’m currently learning, currently focused on Azure. Never stop learning!
