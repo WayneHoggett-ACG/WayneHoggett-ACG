@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Wayne Hoggett from Pluralsight
 - 👀 I’m interested in all things cloud, security, automation and devops
-- 🌱 Just like you, I’m currently learning, currently focused on Azure. Never stop learning!
+- 🌱 Just like you, I’m always learning, currently focused on Azure. Never stop learning!
